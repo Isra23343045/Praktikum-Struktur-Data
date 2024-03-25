@@ -1,4 +1,4 @@
-Repositori ini berisi mengenai semua rangkuman materi perkuliahan praktikum struktur data pada Semester 2
+Repositori ini berisi mengenai semua percobaan dan tugas dari perkuliahan praktikum struktur data pada Semester 2
 
 📓 Mata Kuliah : Praktikum Struktur Data
 👨‍🏫 Dosen: Randi Proska Sandra, M.Sc.
