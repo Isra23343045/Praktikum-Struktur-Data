@@ -35,7 +35,7 @@
     </li>
     <li><a href="#Jobsheet-3---Single-Linked-List">Jobsheet 3 - Single Linked List</a></li>
     <li><a href="#Jobsheet-4---Doubly-Linked-List">Jobsheet 4 - Doubly Linked List</a></li>
-    <li><a href="#contributing">Jobsheet 5 - Double and Circular Linked List</a></li>
+    <li><a href="#Jobsheet-5---Double-and-Circular-Linked-List">Jobsheet 5 - Double and Circular Linked List</a></li>
     <li><a href="#license">Jobsheet 6 - Stack</a></li>
     <li><a href="#contact">Jobsheet 7 - Queue</a></li>
     <li><a href="#acknowledgments">Jobsheet 8 - Bubble and Insertion Sort</a></li>
@@ -121,19 +121,18 @@
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## Jobsheet 5 - Double and Circular Linked List
+<img src="https://cdn.educba.com/academy/wp-content/uploads/2020/03/Circular-Linked-List-in-Data-Structure-m2-.jpg" width="80%" height="80%">
+<p>
+  Doubly Linked List (DLL) dan Circular Linked List (CLL) adalah dua jenis struktur data linked list yang digunakan untuk penyimpanan dan manipulasi data secara efisien. DLL terdiri dari serangkaian node di mana setiap node memiliki tiga komponen: data, pointer ke node berikutnya (next), dan pointer ke node sebelumnya (prev). Ini memungkinkan traversal dalam dua arah, baik maju maupun mundur, membuat operasi seperti penyisipan dan penghapusan node lebih efisien karena akses langsung ke node sebelumnya. Sementara itu, CLL adalah linked list di mana node terakhir menunjuk kembali ke node pertama, membentuk lingkaran tertutup. Ini memungkinkan traversal yang terus menerus tanpa perlu mencapai akhir list dan mulai dari awal lagi.
+  <br/>
+  <br/>
+  Ada dua varian dari CLL: Singly Circular Linked List (SCLL) yang hanya memiliki pointer next dan Doubly Circular Linked List (DCLL) yang memiliki pointer next dan prev. Kedua struktur ini memiliki kelebihan dalam kasus penggunaan tertentu; DLL sangat efisien untuk navigasi dua arah dan operasi manipulasi data, sedangkan CLL ideal untuk aplikasi yang membutuhkan traversal berkelanjutan seperti buffer melingkar atau antrian berputar. Meskipun lebih kompleks dalam implementasi dibandingkan dengan linked list sederhana, keunggulan efisiensi dan fleksibilitas membuat DLL dan CLL menjadi pilihan populer dalam berbagai aplikasi pemrograman.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%205">Latihan,Tugas dan Percobaan Jobsheet 5</a>
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
