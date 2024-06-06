@@ -185,6 +185,7 @@
    <br/>
   <br/>
   <img src="https://www.boardinfinity.com/blog/content/images/2022/12/Your-paragraph-text--63-.jpg" width="80%" height="80%">
+  <br/>
   Insertion sort adalah algoritma pengurutan sederhana yang bekerja dengan cara membagi array menjadi dua bagian: bagian yang sudah terurut dan bagian yang belum terurut. Pada setiap iterasi, insertion sort mengambil satu elemen dari bagian yang belum terurut dan memasukkannya ke dalam posisi yang tepat di bagian yang sudah terurut. Proses ini berlanjut sampai tidak ada lagi elemen yang tersisa dalam bagian yang belum terurut.
   <br/>
   <br/>
