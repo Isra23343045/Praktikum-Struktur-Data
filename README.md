@@ -34,7 +34,7 @@
       <a href="#Jobsheet-2---Array-Pointer-Structure">Jobsheet 2 - Array, Pointer, Structure</a>
     </li>
     <li><a href="#Jobsheet-3---Single-Linked-List">Jobsheet 3 - Single Linked List</a></li>
-    <li><a href="#roadmap">Jobsheet 4 - Doubly Linked List</a></li>
+    <li><a href="#Jobsheet-4---Doubly-Linked-List">Jobsheet 4 - Doubly Linked List</a></li>
     <li><a href="#contributing">Jobsheet 5 - Double and Circular Linked List</a></li>
     <li><a href="#license">Jobsheet 6 - Stack</a></li>
     <li><a href="#contact">Jobsheet 7 - Queue</a></li>
@@ -104,15 +104,18 @@
 
 
 
-<!-- ROADMAP -->
-## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+## Jobsheet 4 - Doubly Linked List
+<img src="https://sebhastian.com/doubly-linked-list-javascript/doubly-linked-list-example.png" width="80%" height="80%">
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+<p>
+  Doubly Linked List (DLL) adalah jenis struktur data yang terdiri dari serangkaian node, di mana setiap node memiliki tiga komponen utama: data, pointer ke node berikutnya (next), dan pointer ke node sebelumnya (prev). Berbeda dengan Single Linked List (SLL) yang hanya memiliki satu arah pointer, DLL memungkinkan traversal dalam dua arah, baik maju (ke depan) maupun mundur (ke belakang). Hal ini menjadikan DLL lebih fleksibel dan efisien dalam operasi tertentu seperti penghapusan dan penyisipan node. Dalam penghapusan node, misalnya, DLL dapat langsung menggunakan pointer prev untuk mengakses node sebelumnya tanpa perlu traversal dari awal, yang sangat menghemat waktu terutama pada list yang panjang.
+  <br/>
+  <br/>
+  Demikian pula, penyisipan node menjadi lebih mudah dan cepat karena adanya akses langsung ke node sebelum atau sesudah posisi penyisipan. Namun, kelemahan dari DLL adalah penggunaan memori yang lebih besar karena setiap node memerlukan ruang tambahan untuk menyimpan dua pointer. Meskipun demikian, manfaat yang diperoleh dari kemampuan traversal dua arah dan efisiensi operasi sering kali lebih besar daripada kelemahan ini, menjadikan DLL pilihan yang baik untuk aplikasi yang membutuhkan navigasi yang kompleks dan manipulasi data yang sering. Implementasi DLL sering kali digunakan dalam sistem perangkat lunak seperti browser yang membutuhkan fungsi navigasi maju-mundur, editor teks, dan berbagai aplikasi lain yang membutuhkan akses dan modifikasi data yang efisien.
+
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%204">Tugas dan Percobaan Jobsheet 4</a>
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
