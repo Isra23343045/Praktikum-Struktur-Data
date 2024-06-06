@@ -30,7 +30,7 @@
 <h2 align="center">Praktikum Struktur Data</h2>
 
   <p align="center">
-    project_description
+    Semua Percobaan dan tugas pada masing masing jobsheet
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
