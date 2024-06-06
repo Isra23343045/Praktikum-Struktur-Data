@@ -39,7 +39,7 @@
     <li><a href="#Jobsheet-6---Stack">Jobsheet 6 - Stack</a></li>
     <li><a href="#Jobsheet-7---Queue">Jobsheet 7 - Queue</a></li>
     <li><a href="#Jobsheet-8---Bubble-and-Insertion-Sort">Jobsheet 8 - Bubble and Insertion Sort</a></li>
-    <li><a href="#acknowledgments">Jobsheet 9 - Selection and Merge Sort</a></li>
+    <li><a href="#Jobsheet-9---Selection-and-Merge-Sort">Jobsheet 9 - Selection and Merge Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 10 - Shell and Quick Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 11 - Linear and Binary Search</a></li>
     <li><a href="#acknowledgments">Jobsheet 12 - Tree</a></li>
@@ -198,19 +198,25 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Jobsheet 6 - Stack
-<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+## Jobsheet 9 - Selection and Merge Sort
+<img src="https://mikirinkode.com/wp-content/uploads/2021/11/selection-sort-thumbnail.png" width="80%" height="80%">
 <p>
-  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  Selection sort adalah algoritma pengurutan sederhana yang bekerja dengan cara secara berulang memilih elemen terkecil dari sisa array yang belum terurut dan menukarkannya dengan elemen di posisi awal dari bagian yang belum terurut. Proses ini dilakukan hingga seluruh array terurut.Meskipun selection sort relatif mudah dipahami dan diimplementasikan, ia memiliki kompleksitas waktu yang tidak efisien. Baik dalam kasus rata-rata maupun terburuk, kompleksitas waktu selection sort adalah O(n^2), di mana n merupakan jumlah elemen dalam array.
   <br/>
   <br/>
-  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+  Karena algoritma ini memerlukan banyak pertukaran data, terutama pada dataset besar, ia cenderung menjadi lambat. Namun, keuntungannya adalah selection sort memiliki sedikit overhead, terutama dalam hal memori, karena tidak memerlukan struktur data tambahan seperti tumpukan atau antrian.Karena keterbatasan dalam kinerjanya, selection sort lebih cocok untuk digunakan pada dataset yang relatif kecil atau saat kinerja algoritma tidak menjadi prioritas utama. Namun, ia sering digunakan sebagai contoh dasar dalam pembelajaran tentang algoritma pengurutan dan sebagai langkah awal dalam mengembangkan pemahaman tentang konsep-konsep dasar dalam pengurutan data.
    <br/>
   <br/>
-  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230706153706/Merge-Sort-Algorithm-(1).png" width="80%" height="80%">
+  <br/>
+  Merge sort adalah algoritma pengurutan yang menggunakan teknik pemisahan (divide) dan penggabungan (conquer) untuk mengurutkan sebuah array atau daftar data. Proses dimulai dengan membagi array menjadi dua bagian yang lebih kecil, kemudian masing-masing bagian diurutkan secara terpisah menggunakan rekursi. Setelah itu, bagian-bagian yang sudah diurutkan digabungkan kembali (merge) secara berurutan, dengan membandingkan dan menyusun elemen-elemen dari kedua bagian sesuai dengan urutan yang benar. Langkah ini diulangi secara rekursif hingga seluruh array terurut.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  Keuntungan utama dari merge sort adalah memiliki kompleksitas waktu yang stabil dan relatif cepat, yaitu O(n log n), di mana n merupakan jumlah elemen dalam array. Ini membuatnya efisien untuk digunakan pada dataset besar. Selain itu, merge sort bersifat stabil, artinya elemen-elemen yang memiliki nilai yang sama akan tetap dalam urutan relatif mereka setelah pengurutan.
+Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array sementara selama proses penggabungan, yang dapat mengurangi efisiensi pada dataset yang sangat besar. Selain itu, penggunaan rekursi dalam merge sort bisa menjadi mahal dari segi overhead pada beberapa bahasa pemrograman.
+   <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%209">Tugas dan Percobaan Jobsheet 9</a>
   
 </p>
 
