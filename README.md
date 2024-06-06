@@ -38,7 +38,7 @@
     <li><a href="#Jobsheet-5---Double-and-Circular-Linked-List">Jobsheet 5 - Double and Circular Linked List</a></li>
     <li><a href="#Jobsheet-6---Stack">Jobsheet 6 - Stack</a></li>
     <li><a href="#Jobsheet-7---Queue">Jobsheet 7 - Queue</a></li>
-    <li><a href="#acknowledgments">Jobsheet 8 - Bubble and Insertion Sort</a></li>
+    <li><a href="#Jobsheet 8---Bubble-and-Insertion-Sort">Jobsheet 8 - Bubble and Insertion Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 9 - Selection and Merge Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 10 - Shell and Quick Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 11 - Linear and Binary Search</a></li>
@@ -175,19 +175,23 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Jobsheet 6 - Stack
-<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+## Jobsheet 8 - Bubble and Insertion Sort
+<img src="https://cdn.productplan.com/wp-content/uploads/bubble-sort-1024x683-2.png" width="80%" height="80%">
 <p>
-  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  Bubble sort adalah salah satu algoritma pengurutan sederhana yang bekerja dengan cara berulang kali membandingkan pasangan elemen yang berdekatan dalam sebuah array, dan jika mereka tidak berada dalam urutan yang benar, menukar posisi mereka. Algoritma ini diulangi sampai tidak ada lagi pertukaran yang dibutuhkan, yang menunjukkan bahwa array sudah terurut.
   <br/>
   <br/>
-  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+  Proses bubble sort dimulai dari elemen pertama (indeks 0) dan berlanjut hingga elemen terakhir. Pada setiap iterasi, algoritma membandingkan pasangan elemen yang berdekatan. Jika elemen saat ini lebih besar dari elemen berikutnya, keduanya ditukar. Dengan demikian, elemen terbesar akan "menggelembung" ke bagian paling kanan dari array.
    <br/>
   <br/>
-  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <img src="https://www.boardinfinity.com/blog/content/images/2022/12/Your-paragraph-text--63-.jpg" width="80%" height="80%">
+  Insertion sort adalah algoritma pengurutan sederhana yang bekerja dengan cara membagi array menjadi dua bagian: bagian yang sudah terurut dan bagian yang belum terurut. Pada setiap iterasi, insertion sort mengambil satu elemen dari bagian yang belum terurut dan memasukkannya ke dalam posisi yang tepat di bagian yang sudah terurut. Proses ini berlanjut sampai tidak ada lagi elemen yang tersisa dalam bagian yang belum terurut.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  Algoritma insertion sort secara umum lebih efisien daripada bubble sort dan selection sort, terutama untuk dataset yang hampir terurut atau memiliki ukuran kecil. Namun, insertion sort memiliki kompleksitas waktu rata-rata dan terburuk O(n^2), yang membuatnya kurang efisien untuk dataset yang sangat besar.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%208">Tugas dan Percobaan Jobsheet 8</a>
   
 </p>
 
