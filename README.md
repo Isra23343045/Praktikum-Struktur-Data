@@ -41,7 +41,7 @@
     <li><a href="#Jobsheet-8---Bubble-and-Insertion-Sort">Jobsheet 8 - Bubble and Insertion Sort</a></li>
     <li><a href="#Jobsheet-9---Selection-and-Merge-Sort">Jobsheet 9 - Selection and Merge Sort</a></li>
     <li><a href="#Jobsheet-10---Shell-and-Quick-Sort">Jobsheet 10 - Shell and Quick Sort</a></li>
-    <li><a href="#acknowledgments">Jobsheet 11 - Linear and Binary Search</a></li>
+    <li><a href="#Jobsheet-11---Linear-and-Binary-Search">Jobsheet 11 - Linear and Binary Search</a></li>
     <li><a href="#acknowledgments">Jobsheet 12 - Tree</a></li>
     <li><a href="#acknowledgments">Jobsheet 13 - Graphs</a></li>
   </ol>
@@ -245,6 +245,58 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Jobsheet 11 - Linear and Binary Search
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Linear-Search.png" width="80%" height="80%">
+<p>
+  Linear search, juga dikenal sebagai sequential search, adalah metode sederhana untuk mencari nilai tertentu dalam sebuah array atau daftar. Algoritma ini bekerja dengan memeriksa setiap elemen dalam urutan, satu per satu, mulai dari awal hingga akhir array, untuk mencocokkan nilai yang dicari. Jika nilai yang dicari ditemukan, linear search akan mengembalikan indeks di mana nilai tersebut pertama kali ditemukan dalam array. Namun, jika nilai tidak ditemukan, algoritma akan menyelesaikan pencarian setelah memeriksa semua elemen dan mengembalikan nilai yang menunjukkan bahwa nilai tersebut tidak ada dalam array.
+  <br/>
+  <br/>
+  Keuntungan dari linear search adalah kesederhanaannya dan kemampuannya untuk bekerja pada array yang tidak diurutkan. Namun, karena algoritma ini memeriksa setiap elemen satu per satu, kompleksitas waktu pencariannya adalah O(n), di mana n adalah jumlah elemen dalam array. Oleh karena itu, linear search tidak efisien untuk dataset yang besar atau saat efisiensi waktu sangat penting. Meskipun demikian, linear search tetap menjadi pilihan yang cocok untuk dataset yang kecil atau ketika array tidak diurutkan.
+   <br/>
+  <br/>
+  <img src="https://i.ytimg.com/vi/tfq_T2cM_fc/maxresdefault.jpg" width="80%" height="80%">
+  <br/>
+  Binary search adalah algoritma pencarian yang digunakan untuk menemukan nilai tertentu dalam sebuah array yang diurutkan secara terurut naik. Algoritma ini membagi array menjadi dua bagian, memeriksa elemen tengah, dan membandingkannya dengan nilai yang dicari. Jika nilai di tengah array sama dengan nilai yang dicari, pencarian selesai. Namun, jika nilai di tengah lebih besar dari nilai yang dicari, algoritma akan mencari di setengah kiri array; jika nilai di tengah lebih kecil, algoritma akan mencari di setengah kanan array. Proses ini berulang secara rekursif pada setengah array yang relevan hingga nilai yang dicari ditemukan atau tidak ditemukan.
+  <br/>
+  <br/>
+  Keuntungan utama binary search adalah kompleksitas waktu yang lebih baik daripada linear search. Karena setiap iterasi membagi ukuran array menjadi setengah, kompleksitas waktu binary search adalah O(log n), di mana n adalah jumlah elemen dalam array. Oleh karena itu, algoritma ini sangat efisien untuk dataset yang besar. Namun, penting untuk dicatat bahwa binary search hanya dapat digunakan pada array yang diurutkan, dan implementasinya tidak efisien jika array sering berubah atau diubah.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2011">Tugas dan Percobaan Jobsheet 11</a>
+  
+</p>
+
+## Jobsheet 6 - Stack
+<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+<p>
+  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  <br/>
+  <br/>
+  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+   <br/>
+  <br/>
+  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  
+</p>
+
+## Jobsheet 6 - Stack
+<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+<p>
+  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  <br/>
+  <br/>
+  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+   <br/>
+  <br/>
+  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  
+</p>
 <!-- CONTACT -->
 ## Contact
 
