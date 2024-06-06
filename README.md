@@ -37,7 +37,7 @@
     <li><a href="#Jobsheet-4---Doubly-Linked-List">Jobsheet 4 - Doubly Linked List</a></li>
     <li><a href="#Jobsheet-5---Double-and-Circular-Linked-List">Jobsheet 5 - Double and Circular Linked List</a></li>
     <li><a href="#Jobsheet-6---Stack">Jobsheet 6 - Stack</a></li>
-    <li><a href="#contact">Jobsheet 7 - Queue</a></li>
+    <li><a href="#Jobsheet-7---Queue">Jobsheet 7 - Queue</a></li>
     <li><a href="#acknowledgments">Jobsheet 8 - Bubble and Insertion Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 9 - Selection and Merge Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 10 - Shell and Quick Sort</a></li>
@@ -157,7 +157,77 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Jobsheet 7 - Queue
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png" width="80%" height="80%">
+<p>
+  Queue adalah struktur data yang mirip dengan antrian dalam kehidupan sehari-hari, di mana elemen-elemen ditambahkan ke ujung belakang (rear) dan dihapus dari ujung depan (front). Konsep FIFO (First In, First Out) digunakan dalam queue, yang berarti elemen yang pertama kali dimasukkan akan menjadi yang pertama kali dikeluarkan. Seperti saat kita mengantri di kasir supermarket, orang pertama yang mengantri akan dilayani terlebih dahulu sebelum orang-orang yang datang kemudian. Operasi utama dalam queue adalah enqueue, yang digunakan untuk menambahkan elemen baru ke dalam antrian, dan dequeue, yang menghapus dan mengembalikan elemen dari ujung depan antrian.
+  <br/>
+  <br/>
+  Queue dapat diimplementasikan menggunakan array atau linked list. Implementasi menggunakan array memerlukan alokasi memori statis dan memiliki batasan ukuran yang tetap, sementara implementasi menggunakan linked list lebih fleksibel dalam hal alokasi memori. Ada juga variasi dari queue, seperti priority queue, di mana setiap elemen memiliki prioritas tertentu dan akan dikeluarkan sesuai dengan prioritasnya.
+   <br/>
+  <br/>
+ Queue digunakan dalam berbagai aplikasi, termasuk sistem antrian layanan pelanggan, penjadwalan tugas dalam sistem operasi, dan algoritma Breadth First Search (BFS) dalam pencarian grafik. Kemampuannya untuk mengatur data secara terstruktur dan memberikan akses cepat ke elemen pertama serta kemampuan untuk menangani banyak operasi dengan efisien menjadikannya alat yang penting dalam pengembangan perangkat lunak. Dengan demikian, pemahaman tentang konsep dan penggunaan queue sangat penting bagi para pengembang perangkat lunak.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%207">Latihan,Tugas dan Percobaan Jobsheet 7</a>
+  
+</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Jobsheet 6 - Stack
+<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+<p>
+  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  <br/>
+  <br/>
+  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+   <br/>
+  <br/>
+  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  
+</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Jobsheet 6 - Stack
+<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+<p>
+  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  <br/>
+  <br/>
+  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+   <br/>
+  <br/>
+  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  
+</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Jobsheet 6 - Stack
+<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+<p>
+  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  <br/>
+  <br/>
+  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+   <br/>
+  <br/>
+  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <br/>
+  <br/>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  
+</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
