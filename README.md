@@ -297,7 +297,7 @@ Graf digunakan dalam berbagai algoritma dan aplikasi, termasuk algoritma pencari
 <!-- CONTACT -->
 ## Contact
 
-Muhammad Isra alfattah - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Muhammad Isra alfattah - [@isra_alfattah](https://www.facebook.com/profile.php?id=100013991084817) - email@email_client.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
