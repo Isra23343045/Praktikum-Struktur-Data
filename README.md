@@ -89,7 +89,9 @@
 <p>
   Materi JOB SHEET 03 membahas topik Single Linked List.Teori singkat menjelaskan bahwa sebuah node dalam linked list berisi alamat dan data, yang keduanya dibungkus dalam sebuah objek berupa struct. Penggunaan alokasi memori dinamis memungkinkan kita untuk mengalokasikan memori saat program berjalan, berbeda dengan array yang bersifat statis. Fungsi `sizeof()` digunakan untuk mendapatkan ukuran tipe data atau variabel, sementara `malloc()` digunakan untuk mengalokasikan memori secara dinamis.
   <br/>
+  <br/>
   Single Linked List adalah struktur data yang terdiri dari simpul-simpul beralamat yang saling bertaut, dimana setiap simpul menyimpan data dan alamat simpul berikutnya. Simpul pertama disebut HEAD dan simpul terakhir yang berisi alamat kosong disebut TAIL. Praktikum ini mencakup contoh program untuk membuat dan menampilkan linked list, serta operasi dasar seperti menambah elemen di awal, di tengah, dan di akhir linked list.
+  <br/>
   <br/>
   Percobaan yang dilakukan melibatkan alokasi memori, pembuatan linked list tanpa typedef, dengan typedef, dan menampilkan linked list. Selain itu, juga dicontohkan bagaimana melakukan penyisipan elemen pada linked list. Tugas yang diberikan melibatkan pembuatan program untuk menampilkan bilangan Fibonacci dan bilangan prima menggunakan pointer dengan malloc, serta menggunakan realloc untuk mengalokasikan ukuran memori baru.
    <br/>
