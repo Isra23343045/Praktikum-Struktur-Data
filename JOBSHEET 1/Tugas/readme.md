@@ -51,16 +51,9 @@
   <ol>
     <li>
       <a href="#Jobsheet-1---Pengenalan-Struktur-Data">Jobsheet 1 - Pengenalan Struktur Data</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#Jobsheet 2---Array,-Pointer,-Structure">Jobsheet 2 - Array, Pointer, Structure</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Jobsheet 3 - Single Linked List</a></li>
     <li><a href="#roadmap">Jobsheet 4 - Doubly Linked List</a></li>
@@ -109,33 +102,6 @@
 
   <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%201/Tugas">Tugas dan Percobaan Jobsheet 2</a>
 </p>
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
