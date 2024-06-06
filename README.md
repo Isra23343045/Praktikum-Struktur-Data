@@ -10,7 +10,7 @@
   <p align="center">
     Repositori ini berisi mengenai semua percobaan dan tugas dari perkuliahan praktikum struktur data pada Semester 2
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="[https://github.com/github_username/repo_name](https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main?tab=readme-ov-file)"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     📓 Mata Kuliah : Praktikum Struktur Data
