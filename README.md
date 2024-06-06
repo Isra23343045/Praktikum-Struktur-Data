@@ -40,7 +40,7 @@
     <li><a href="#Jobsheet-7---Queue">Jobsheet 7 - Queue</a></li>
     <li><a href="#Jobsheet-8---Bubble-and-Insertion-Sort">Jobsheet 8 - Bubble and Insertion Sort</a></li>
     <li><a href="#Jobsheet-9---Selection-and-Merge-Sort">Jobsheet 9 - Selection and Merge Sort</a></li>
-    <li><a href="#acknowledgments">Jobsheet 10 - Shell and Quick Sort</a></li>
+    <li><a href="#Jobsheet-10---Shell-and-Quick-Sort">Jobsheet 10 - Shell and Quick Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 11 - Linear and Binary Search</a></li>
     <li><a href="#acknowledgments">Jobsheet 12 - Tree</a></li>
     <li><a href="#acknowledgments">Jobsheet 13 - Graphs</a></li>
@@ -222,8 +222,8 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Jobsheet 6 - Stack
-<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+## Jobsheet 10 - Shell and Quick Sort
+<img src="https://www.mycplus.com/mycplus/wp-content/uploads/2021/02/Shell-Sort-Algorithm-1280x640.png" width="80%" height="80%">
 <p>
   Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
   <br/>
