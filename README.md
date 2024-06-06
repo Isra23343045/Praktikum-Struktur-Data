@@ -1,5 +1,5 @@
 <h1 align="center">Praktikum Struktur Data</h1>
-
+<h3 align="center">(INF1.62.2014)</h3>
 Repositori ini berisi mengenai semua percobaan dan tugas dari perkuliahan praktikum struktur data pada Semester 2
 
 📓 Mata Kuliah : Praktikum Struktur Data
