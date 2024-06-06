@@ -38,7 +38,7 @@
     <li><a href="#Jobsheet-5---Double-and-Circular-Linked-List">Jobsheet 5 - Double and Circular Linked List</a></li>
     <li><a href="#Jobsheet-6---Stack">Jobsheet 6 - Stack</a></li>
     <li><a href="#Jobsheet-7---Queue">Jobsheet 7 - Queue</a></li>
-    <li><a href="#Jobsheet 8---Bubble-and-Insertion-Sort">Jobsheet 8 - Bubble and Insertion Sort</a></li>
+    <li><a href="#Jobsheet-8---Bubble-and-Insertion-Sort">Jobsheet 8 - Bubble and Insertion Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 9 - Selection and Merge Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 10 - Shell and Quick Sort</a></li>
     <li><a href="#acknowledgments">Jobsheet 11 - Linear and Binary Search</a></li>
