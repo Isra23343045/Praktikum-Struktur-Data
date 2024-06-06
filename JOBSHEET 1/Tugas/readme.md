@@ -56,7 +56,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Jobsheet 2 - Array, Pointer, , Structure</a>
+      <a href="#Jobsheet 2---Array,-Pointer,-Structure">Jobsheet 2 - Array, Pointer, Structure</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -97,17 +97,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-
-
 <!-- GETTING STARTED -->
-## Getting Started
+## Jobsheet 2 - Array, Pointer, Structure
+<img src="[https://miro.medium.com/v2/resize:fit:2000/1*2rKGJ6h1regwmfMcty3SLw.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwLkzXiMiNKUQA3MQjZI7Ad827TEJxzgCZugHFIpDbSaot7rrX6COr6frabNmoESk7jhmOCcKZ3E6cxNFYVeNOXMfaqnGh6oHSYycF-9x7orsKtrarzdTohQ0Bg2_AFITjey262MtpMZabo2eDPKyrqHwK4Nhllc8jK0Jyn36cMmZ5qW5Eu7RpMnxSw/s1280/Array%20Data%20Structure.png)" width="80%" height="80%">
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
