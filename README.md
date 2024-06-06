@@ -43,11 +43,9 @@
     <li><a href="#Jobsheet-10---Shell-and-Quick-Sort">Jobsheet 10 - Shell and Quick Sort</a></li>
     <li><a href="#Jobsheet-11---Linear-and-Binary-Search">Jobsheet 11 - Linear and Binary Search</a></li>
     <li><a href="#Jobsheet-12---Tree">Jobsheet 12 - Tree</a></li>
-    <li><a href="#acknowledgments">Jobsheet 13 - Graphs</a></li>
+    <li><a href="#Jobsheet-13---Graphs">Jobsheet 13 - Graphs</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## Jobsheet 1 - Pengenalan Struktur Data
@@ -280,19 +278,18 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Jobsheet 6 - Stack
-<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+## Jobsheet 13 - Graphs
+<img src="https://www.boardinfinity.com/blog/content/images/2023/01/Graphs-in-DSA.png" width="80%" height="80%">
 <p>
-  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  Graf adalah struktur data yang terdiri dari kumpulan simpul atau node yang terhubung oleh sisi atau edge. Setiap sisi dapat memiliki bobot atau nilai tertentu yang menggambarkan hubungan antara dua simpul tersebut. Graf digunakan untuk merepresentasikan berbagai jenis hubungan antara objek dalam dunia nyata, seperti jaringan sosial, jaringan transportasi, dan hubungan antarobjek dalam sistem informasi.
+Graf memiliki dua jenis utama: graf terarah dan graf tak terarah. Pada graf terarah, setiap sisi memiliki arah yang menunjukkan hubungan satu arah antara dua simpul, sedangkan pada graf tak terarah, sisi tidak memiliki arah, yang berarti hubungan antara dua simpul adalah saling mengalir.
   <br/>
   <br/>
-  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
-   <br/>
-  <br/>
-  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  Ada beberapa representasi yang digunakan untuk menyimpan graf dalam komputer, termasuk representasi matriks dan representasi daftar. Representasi matriks menggunakan matriks dua dimensi untuk menyimpan informasi tentang hubungan antara simpul-simpul, sedangkan representasi daftar menggunakan daftar terkait untuk menyimpan informasi tentang tetangga-tetangga setiap simpul.
+Graf digunakan dalam berbagai algoritma dan aplikasi, termasuk algoritma pencarian jalur terpendek seperti Dijkstra dan Bellman-Ford, algoritma pencarian lintasan terpendek seperti algoritma A*, serta dalam algoritma pencarian dalam kedalaman (depth-first search) dan algoritma pencarian dalam lebar (breadth-first search) untuk traversal graf. Selain itu, graf juga digunakan dalam analisis jaringan, optimisasi rute, pemetaan jaringan sosial, dan banyak lagi. Kemampuan untuk merepresentasikan hubungan kompleks antara objek membuat graf menjadi struktur data yang sangat penting dalam ilmu komputer dan aplikasinya dalam berbagai bidang.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2013">Percobaan Jobsheet 13</a>
   
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
