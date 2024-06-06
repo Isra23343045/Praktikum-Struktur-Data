@@ -83,7 +83,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<p>
+  Materi dari JOB SHEET 01 untuk mata kuliah Praktikum Struktur Data mencakup pengenalan dasar mengenai struktur data, dengan tujuan agar mahasiswa memahami konsep data, variabel, tipe data, dan struktur data serta mampu menerapkan dan memberikan contoh implementasi penyimpanan data menggunakan berbagai tipe data. Praktikum ini menggunakan perangkat lunak Notepad++ dan DevC IDE pada komputer pribadi. Teori singkatnya menjelaskan bahwa struktur data dalam pemrograman, khususnya dengan bahasa C, melibatkan variabel seperti Array, Struktur, dan Linked List yang memiliki karakteristik berbeda. Struktur data merupakan cara penyimpanan, penyusunan, dan pengaturan data untuk efisiensi.
+</p>
+<br/>
+<p>
+  Data sendiri adalah representasi fakta dunia nyata dalam berbagai bentuk. Terdapat empat istilah utama: tipe data, objek data, struktur data, dan berbagai kategori tipe data, termasuk tipe sederhana (tunggal dan majemuk) dan struktur data (sederhana dan majemuk). Pemahaman dan penggunaan struktur data yang tepat akan menghasilkan algoritma yang efisien dan program yang sederhana. Struktur data standar yang biasa digunakan mencakup List linier, Multilist, Stack, Queue, Tree, dan Graph. Praktikum juga mencakup percobaan pertama dengan program bahasa C dan tugas membuat artikel tentang topik-topik seperti Pointer, struct, dan array, serta berbagai jenis Linked List.
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
