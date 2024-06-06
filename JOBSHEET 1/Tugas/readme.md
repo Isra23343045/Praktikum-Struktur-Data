@@ -53,7 +53,7 @@
       <a href="#Jobsheet-1---Pengenalan-Struktur-Data">Jobsheet 1 - Pengenalan Struktur Data</a>
     </li>
     <li>
-      <a href="#Jobsheet 2---Array,-Pointer,-Structure">Jobsheet 2 - Array, Pointer, Structure</a>
+      <a href="#Jobsheet-2---Array,-Pointer,-Structure">Jobsheet 2 - Array, Pointer, Structure</a>
     </li>
     <li><a href="#usage">Jobsheet 3 - Single Linked List</a></li>
     <li><a href="#roadmap">Jobsheet 4 - Doubly Linked List</a></li>
