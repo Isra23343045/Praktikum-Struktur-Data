@@ -89,6 +89,8 @@
 <br/>
 <p>
   Data sendiri adalah representasi fakta dunia nyata dalam berbagai bentuk. Terdapat empat istilah utama: tipe data, objek data, struktur data, dan berbagai kategori tipe data, termasuk tipe sederhana (tunggal dan majemuk) dan struktur data (sederhana dan majemuk). Pemahaman dan penggunaan struktur data yang tepat akan menghasilkan algoritma yang efisien dan program yang sederhana. Struktur data standar yang biasa digunakan mencakup List linier, Multilist, Stack, Queue, Tree, dan Graph. Praktikum juga mencakup percobaan pertama dengan program bahasa C dan tugas membuat artikel tentang topik-topik seperti Pointer, struct, dan array, serta berbagai jenis Linked List.
+  <br/>
+  👉 <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%201/Tugas">Tugas Jobsheet 1</a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
