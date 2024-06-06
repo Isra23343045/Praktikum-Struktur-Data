@@ -295,9 +295,10 @@ Graf digunakan dalam berbagai algoritma dan aplikasi, termasuk algoritma pencari
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
+
 ## Contact
 
-Muhammad Isra alfattah - [@isra_alfattah](https://www.facebook.com/profile.php?id=100013991084817) - email@email_client.com
+Muhammad Isra alfattah - [facebook@isra_alfattah](https://www.facebook.com/profile.php?id=100013991084817) - email@email_client.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
