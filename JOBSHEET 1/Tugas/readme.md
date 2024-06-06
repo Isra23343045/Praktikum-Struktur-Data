@@ -19,14 +19,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -35,7 +27,7 @@
     <img src="https://1.bp.blogspot.com/-KrHDhie5nic/Wi-TjOVtr4I/AAAAAAAAMYQ/XrxFafE7w8Anb-bcqZVKtvbBp1WgFZwdACLcBGAs/s1600/logo-universitas-negeri-padang-%2528unp%2529.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">project_title</h3>
+<h2 align="center">Praktikum Struktur Data</h2>
 
   <p align="center">
     project_description
