@@ -50,7 +50,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Jobsheet 1 - Pengenalan Struktur Data</a>
+      <a href="#Jobsheet-1---Pengenalan-Struktur-Data">Jobsheet 1 - Pengenalan Struktur Data</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -79,7 +79,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Jobsheet 1 - Pengenalan Struktur Data
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
