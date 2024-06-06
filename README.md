@@ -300,7 +300,7 @@ Graf digunakan dalam berbagai algoritma dan aplikasi, termasuk algoritma pencari
 
 Muhammad Isra alfattah - [facebook@isra_alfattah](https://www.facebook.com/profile.php?id=100013991084817) - alfattah.isra@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Github Link: [https://github.com/Isra23343045](https://github.com/Isra23343045)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
