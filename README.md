@@ -265,7 +265,7 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2011">Tugas dan Percobaan Jobsheet 11</a>
   
 </p>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Jobsheet 6 - Stack
 <img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
 <p>
@@ -281,7 +281,7 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
   
 </p>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Jobsheet 6 - Stack
 <img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
 <p>
@@ -297,6 +297,7 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
   
 </p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
 ## Contact
 
