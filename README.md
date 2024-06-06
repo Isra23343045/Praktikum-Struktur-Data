@@ -42,7 +42,7 @@
     <li><a href="#Jobsheet-9---Selection-and-Merge-Sort">Jobsheet 9 - Selection and Merge Sort</a></li>
     <li><a href="#Jobsheet-10---Shell-and-Quick-Sort">Jobsheet 10 - Shell and Quick Sort</a></li>
     <li><a href="#Jobsheet-11---Linear-and-Binary-Search">Jobsheet 11 - Linear and Binary Search</a></li>
-    <li><a href="#acknowledgments">Jobsheet 12 - Tree</a></li>
+    <li><a href="#Jobsheet-12---Tree">Jobsheet 12 - Tree</a></li>
     <li><a href="#acknowledgments">Jobsheet 13 - Graphs</a></li>
   </ol>
 </details>
@@ -266,19 +266,17 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Jobsheet 6 - Stack
-<img src="https://inevitableeth.com/stack-banner.png" width="80%" height="80%">
+
+## Jobsheet 12 - Tree
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20221124153129/Treedatastructure.png" width="80%" height="80%">
 <p>
-  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  Tree adalah struktur data yang terdiri dari simpul-simpul yang terhubung satu sama lain melalui tepi atau cabang. Struktur ini mirip dengan pohon kebalikan, dengan akar di bagian atas dan cabang-cabang menjalar ke bawah. Setiap simpul dalam pohon memiliki satu simpul induk (kecuali simpul akar) dan nol atau lebih simpul anak. Simpul yang tidak memiliki anak disebut simpul daun, sementara simpul yang memiliki setidaknya satu anak disebut simpul dalam.
   <br/>
   <br/>
-  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+  Sebuah pohon terdiri dari serangkaian simpul, yang masing-masing dapat memiliki nilai data atau informasi tambahan. Tree umumnya digunakan untuk menyimpan data hierarkis, seperti struktur file dalam sistem operasi atau hierarki organisasi dalam perusahaan. Jenis pohon yang umum digunakan termasuk binary tree, binary search tree, AVL tree, dan Red-Black tree, masing-masing dengan aturan dan sifat khususnya. Tree juga memiliki berbagai operasi yang bisa dilakukan, seperti pencarian, penambahan, penghapusan, dan traversal, yang memungkinkan akses dan manipulasi data secara efisien.
    <br/>
   <br/>
-  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
-  <br/>
-  <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2012">Percobaan Jobsheet 12</a>
   
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
