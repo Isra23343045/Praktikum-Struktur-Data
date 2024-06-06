@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://1.bp.blogspot.com/-KrHDhie5nic/Wi-TjOVtr4I/AAAAAAAAMYQ/XrxFafE7w8Anb-bcqZVKtvbBp1WgFZwdACLcBGAs/s1600/logo-universitas-negeri-padang-%2528unp%2529.png" alt="Logo" width="80" height="80">
+    <img src="https://1.bp.blogspot.com/-KrHDhie5nic/Wi-TjOVtr4I/AAAAAAAAMYQ/XrxFafE7w8Anb-bcqZVKtvbBp1WgFZwdACLcBGAs/s1600/logo-universitas-negeri-padang-%2528unp%2529.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">project_title</h3>
