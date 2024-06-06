@@ -1,3 +1,5 @@
+<h1 align="center">Praktikum Struktur Data</h1>
+
 Repositori ini berisi mengenai semua percobaan dan tugas dari perkuliahan praktikum struktur data pada Semester 2
 
 📓 Mata Kuliah : Praktikum Struktur Data
