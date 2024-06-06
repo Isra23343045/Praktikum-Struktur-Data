@@ -30,11 +30,16 @@
 <h2 align="center">Praktikum Struktur Data</h2>
 
   <p align="center">
-    Semua Percobaan dan tugas pada masing masing jobsheet
+    Repositori ini berisi mengenai semua percobaan dan tugas dari perkuliahan praktikum struktur data pada Semester 2
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    📓 Mata Kuliah : Praktikum Struktur Data
+    <br />
+    👨‍🏫 Dosen: Randi Proska Sandra, M.Sc.
+    <br />
+    🏫 Kode kelas : Kode Kelas : INF1.62.2014.
   </p>
 </div>
 
