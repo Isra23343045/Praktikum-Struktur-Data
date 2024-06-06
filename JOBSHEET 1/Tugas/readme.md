@@ -99,8 +99,16 @@
 
 <!-- GETTING STARTED -->
 ## Jobsheet 2 - Array, Pointer, Structure
-<img src="[https://miro.medium.com/v2/resize:fit:2000/1*2rKGJ6h1regwmfMcty3SLw.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwLkzXiMiNKUQA3MQjZI7Ad827TEJxzgCZugHFIpDbSaot7rrX6COr6frabNmoESk7jhmOCcKZ3E6cxNFYVeNOXMfaqnGh6oHSYycF-9x7orsKtrarzdTohQ0Bg2_AFITjey262MtpMZabo2eDPKyrqHwK4Nhllc8jK0Jyn36cMmZ5qW5Eu7RpMnxSw/s1280/Array%20Data%20Structure.png)" width="80%" height="80%">
+<img src="https://www.ggorantala.dev/content/images/2023/04/Introduction-to-array-data-structure.png" width="80%" height="80%">
 
+<p>
+  Materi dari JOB SHEET 02 membahas tentang konsep Array, Pointer, Structure, dan Abstract Data Type (ADT) dalam pemrograman.Secara singkat, teori mengenai Array menjelaskan bahwa array adalah kumpulan nilai dengan tipe data yang sama, yang elemen-elemennya diakses menggunakan indeks. Deklarasi array bisa satu dimensi, dua dimensi, atau multi dimensi, dan contoh inisialisasinya termasuk deklarasi seperti `double balance[5] = {500.0, 2.0, 3.4, 7.0, 50.0};`.
+  <br/>
+  <br/>
+  Pointer adalah variabel yang berisi alamat memori sebagai nilainya, berbeda dengan variabel biasa yang berisi nilai tertentu. Pointer digunakan untuk menyimpan alamat dari variabel lain, dan dideklarasikan dengan tanda asterisk (*) di depan nama variabel, misalnya `int *b, d;`. Untuk mendapatkan alamat memori dari variabel, digunakan tanda `&` di depan nama variabel, seperti `&b`.
+
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%201/Tugas">Tugas dan Percobaan Jobsheet 2</a>
+</p>
 
 ### Prerequisites
 
