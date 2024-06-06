@@ -35,11 +35,13 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <div>
     📓 Mata Kuliah : Praktikum Struktur Data
     <br />
     👨‍🏫 Dosen: Randi Proska Sandra, M.Sc.
     <br />
     🏫 Kode kelas : Kode Kelas : INF1.62.2014.
+    </div>
   </p>
 </div>
 
