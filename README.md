@@ -225,16 +225,21 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
 ## Jobsheet 10 - Shell and Quick Sort
 <img src="https://www.mycplus.com/mycplus/wp-content/uploads/2021/02/Shell-Sort-Algorithm-1280x640.png" width="80%" height="80%">
 <p>
-  Stack adalah struktur data yang menawarkan pendekatan sederhana namun kuat dalam pengelolaan elemen data. Dalam konsep LIFO (Last In, First Out), elemen yang terakhir dimasukkan ke dalam stack akan menjadi yang pertama dikeluarkan. Ini mirip dengan cara kita menyusun tumpukan buku di atas meja, di mana buku terakhir yang diletakkan akan menjadi yang pertama diambil saat kita ingin mengambilnya kembali. Operasi utama dalam stack adalah push, yang digunakan untuk menambahkan elemen baru ke atas tumpukan, dan pop, yang menghapus dan mengembalikan elemen teratas. Selain itu, terdapat operasi peek yang memungkinkan kita melihat elemen teratas tanpa menghapusnya dari stack.
+  Shell sort adalah algoritma pengurutan yang merupakan modifikasi dari insertion sort, yang bertujuan untuk meningkatkan kinerja pengurutan dengan cara mengurangi jumlah perbandingan yang harus dilakukan. Prosesnya dimulai dengan membagi array menjadi beberapa subsequence yang lebih kecil, kemudian setiap subsequence diurutkan menggunakan insertion sort. Yang membedakan shell sort dari insertion sort adalah jarak (gap) antara elemen-elemen yang dibandingkan dalam setiap iterasi.
   <br/>
   <br/>
-  Implementasi stack dapat dilakukan dengan menggunakan array atau linked list. Dalam array, stack diimplementasikan sebagai kumpulan elemen bertipe data yang dikelompokkan secara sekuensial dalam memori komputer. Di sisi lain, linked list memanfaatkan simpul-simpul yang saling terhubung, memungkinkan penambahan dan penghapusan elemen dengan lebih fleksibel. Stack sering digunakan dalam berbagai aplikasi, termasuk pengelolaan memori dalam bahasa pemrograman, penanganan ekspresi aritmatika dalam kompilasi, pencarian dalam algoritma Depth First Search (DFS), dan banyak lagi.
+  Pada awalnya, gap yang digunakan besar, kemudian secara bertahap gap tersebut diperkecil hingga mencapai nilai 1. Dengan demikian, shell sort mengurutkan elemen-elemen dengan cara insertion sort, tetapi dengan memperhitungkan elemen-elemen yang berjarak jauh satu sama lain terlebih dahulu. Hal ini memungkinkan elemen-elemen yang lebih kecil atau lebih besar untuk "melompat" ke posisi mereka dengan cepat, mengurangi jumlah perbandingan yang harus dilakukan dalam proses pengurutan.
    <br/>
   <br/>
-  Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
+  <img src="https://i.ytimg.com/vi/OGVGDgc9BAo/maxresdefault.jpg" width="80%" height="80%">
+  <br/>
+  Quick sort adalah algoritma pengurutan yang efisien dan sering digunakan dalam pemrosesan data. Metode ini mengadopsi pendekatan divide and conquer, di mana array dibagi menjadi dua subarray berdasarkan elemen pivot. Elemen pivot dipilih dari array yang akan diurutkan dan digunakan sebagai pemisah antara elemen yang lebih kecil dan lebih besar daripada pivot. Setelah pemisahan, algoritma secara rekursif mengurutkan kedua subarray secara independen menggunakan teknik yang sama hingga seluruh array terurut. Karena pendekatan rekursifnya, quick sort memiliki kompleksitas waktu rata-rata O(n log n), menjadikannya salah satu algoritma pengurutan yang paling cepat dalam praktiknya.
+   <br/>
+  <br/>
+  Keunggulan utama dari quick sort adalah kinerja yang cepat dan efisien, terutama pada dataset yang besar. Selain itu, algoritma ini tidak membutuhkan ruang tambahan untuk penyimpanan data sementara, yang membuatnya lebih efisien dalam penggunaan memori. Namun, quick sort memiliki beberapa kelemahan, terutama ketika elemen pivot dipilih dengan buruk, dapat menyebabkan kinerja algoritma menjadi buruk, meskipun ini dapat diperbaiki dengan memilih pivot secara acak atau dengan menggunakan heuristik lainnya. Selain itu, quick sort bersifat tidak stabil, artinya ia tidak mempertahankan urutan relatif elemen-elemen yang sama nilainya dalam array yang terurut. Meskipun demikian, quick sort tetap menjadi salah satu algoritma pengurutan yang paling populer dan banyak digunakan dalam berbagai konteks pemrograman.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2010">Tugas dan Percobaan Jobsheet 10</a>
   
 </p>
 
