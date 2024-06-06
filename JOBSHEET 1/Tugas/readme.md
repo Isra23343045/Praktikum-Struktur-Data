@@ -62,12 +62,17 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#usage">Jobsheet 3 - Single Linked List</a></li>
+    <li><a href="#roadmap">Jobsheet 4 - Doubly Linked List</a></li>
+    <li><a href="#contributing">Jobsheet 5 - Double and Circular Linked List</a></li>
+    <li><a href="#license">Jobsheet 6 - Stack</a></li>
+    <li><a href="#contact">Jobsheet 7 - Queue</a></li>
+    <li><a href="#acknowledgments">Jobsheet 8 - Bubble and Insertion Sort</a></li>
+    <li><a href="#acknowledgments">Jobsheet 9 - Selection and Merge Sort</a></li>
+    <li><a href="#acknowledgments">Jobsheet 10 - Shell and Quick Sort</a></li>
+    <li><a href="#acknowledgments">Jobsheet 11 - Linear and Binary Search</a></li>
+    <li><a href="#acknowledgments">Jobsheet 12 - Tree</a></li>
+    <li><a href="#acknowledgments">Jobsheet 13 - Graphs</a></li>
   </ol>
 </details>
 
