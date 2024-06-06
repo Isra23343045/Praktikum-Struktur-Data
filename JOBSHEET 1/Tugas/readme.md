@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Jobsheet 1 - Pengenalan Struktur Data
 
-<img href="https://miro.medium.com/v2/resize:fit:2000/1*2rKGJ6h1regwmfMcty3SLw.png">
+<img src="https://miro.medium.com/v2/resize:fit:2000/1*2rKGJ6h1regwmfMcty3SLw.png">
 
 <p>
   Materi dari JOB SHEET 01 untuk mata kuliah Praktikum Struktur Data mencakup pengenalan dasar mengenai struktur data, dengan tujuan agar mahasiswa memahami konsep data, variabel, tipe data, dan struktur data serta mampu menerapkan dan memberikan contoh implementasi penyimpanan data menggunakan berbagai tipe data. Praktikum ini menggunakan perangkat lunak Notepad++ dan DevC IDE pada komputer pribadi. Teori singkatnya menjelaskan bahwa struktur data dalam pemrograman, khususnya dengan bahasa C, melibatkan variabel seperti Array, Struktur, dan Linked List yang memiliki karakteristik berbeda. Struktur data merupakan cara penyimpanan, penyusunan, dan pengaturan data untuk efisiensi.
