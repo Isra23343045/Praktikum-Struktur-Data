@@ -95,7 +95,7 @@
   Percobaan yang dilakukan melibatkan alokasi memori, pembuatan linked list tanpa typedef, dengan typedef, dan menampilkan linked list. Selain itu, juga dicontohkan bagaimana melakukan penyisipan elemen pada linked list. Tugas yang diberikan melibatkan pembuatan program untuk menampilkan bilangan Fibonacci dan bilangan prima menggunakan pointer dengan malloc, serta menggunakan realloc untuk mengalokasikan ukuran memori baru.
    <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%203">Tugas dan Percobaan Jobsheet 3</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%203%20-%20Single%20Linked%20List">Tugas dan Percobaan Jobsheet 3</a>
 </p>
 
 
@@ -113,7 +113,7 @@
   <br/>
   Demikian pula, penyisipan node menjadi lebih mudah dan cepat karena adanya akses langsung ke node sebelum atau sesudah posisi penyisipan. Namun, kelemahan dari DLL adalah penggunaan memori yang lebih besar karena setiap node memerlukan ruang tambahan untuk menyimpan dua pointer. Meskipun demikian, manfaat yang diperoleh dari kemampuan traversal dua arah dan efisiensi operasi sering kali lebih besar daripada kelemahan ini, menjadikan DLL pilihan yang baik untuk aplikasi yang membutuhkan navigasi yang kompleks dan manipulasi data yang sering. Implementasi DLL sering kali digunakan dalam sistem perangkat lunak seperti browser yang membutuhkan fungsi navigasi maju-mundur, editor teks, dan berbagai aplikasi lain yang membutuhkan akses dan modifikasi data yang efisien.
 
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%204">Tugas dan Percobaan Jobsheet 4</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%204%20-%20Doubly%20Linked%20List">Tugas dan Percobaan Jobsheet 4</a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -130,7 +130,7 @@
   Ada dua varian dari CLL: Singly Circular Linked List (SCLL) yang hanya memiliki pointer next dan Doubly Circular Linked List (DCLL) yang memiliki pointer next dan prev. Kedua struktur ini memiliki kelebihan dalam kasus penggunaan tertentu; DLL sangat efisien untuk navigasi dua arah dan operasi manipulasi data, sedangkan CLL ideal untuk aplikasi yang membutuhkan traversal berkelanjutan seperti buffer melingkar atau antrian berputar. Meskipun lebih kompleks dalam implementasi dibandingkan dengan linked list sederhana, keunggulan efisiensi dan fleksibilitas membuat DLL dan CLL menjadi pilihan populer dalam berbagai aplikasi pemrograman.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%205">Latihan,Tugas dan Percobaan Jobsheet 5</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%205%20-%20Circular%20Linked%20List">Latihan,Tugas dan Percobaan Jobsheet 5</a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -150,7 +150,7 @@
   Keunggulan utama stack adalah kesederhanaannya, yang memungkinkan implementasi dan penggunaannya dengan mudah. Kemampuannya dalam melacak urutan data dan memberikan akses cepat ke elemen teratas membuatnya menjadi pilihan yang populer dalam desain algoritma dan struktur data. Bahkan, dalam banyak kasus, stack dapat digunakan sebagai alat untuk menyelesaikan masalah kompleks dengan cara yang efisien dan elegan. Dengan demikian, stack merupakan salah satu konsep dasar yang penting bagi para pengembang perangkat lunak untuk dipahami dan dikuasai.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%206">Latihan,Tugas dan Percobaan Jobsheet 6</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%206%20-%20Stack">Latihan,Tugas dan Percobaan Jobsheet 6</a>
   
 </p>
 
@@ -168,7 +168,7 @@
  Queue digunakan dalam berbagai aplikasi, termasuk sistem antrian layanan pelanggan, penjadwalan tugas dalam sistem operasi, dan algoritma Breadth First Search (BFS) dalam pencarian grafik. Kemampuannya untuk mengatur data secara terstruktur dan memberikan akses cepat ke elemen pertama serta kemampuan untuk menangani banyak operasi dengan efisien menjadikannya alat yang penting dalam pengembangan perangkat lunak. Dengan demikian, pemahaman tentang konsep dan penggunaan queue sangat penting bagi para pengembang perangkat lunak.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%207">Latihan,Tugas dan Percobaan Jobsheet 7</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%207%20-%20Queue">Latihan,Tugas dan Percobaan Jobsheet 7</a>
   
 </p>
 
@@ -191,7 +191,7 @@
   Algoritma insertion sort secara umum lebih efisien daripada bubble sort dan selection sort, terutama untuk dataset yang hampir terurut atau memiliki ukuran kecil. Namun, insertion sort memiliki kompleksitas waktu rata-rata dan terburuk O(n^2), yang membuatnya kurang efisien untuk dataset yang sangat besar.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%208">Tugas dan Percobaan Jobsheet 8</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%208%20-%20Bubble%20dan%20Insertion%20Sort">Tugas dan Percobaan Jobsheet 8</a>
   
 </p>
 
@@ -215,7 +215,7 @@
 Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array sementara selama proses penggabungan, yang dapat mengurangi efisiensi pada dataset yang sangat besar. Selain itu, penggunaan rekursi dalam merge sort bisa menjadi mahal dari segi overhead pada beberapa bahasa pemrograman.
    <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%209">Tugas dan Percobaan Jobsheet 9</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%209%20-%20Selection%20dan%20Merge%20Sort">Tugas dan Percobaan Jobsheet 9</a>
   
 </p>
 
@@ -238,7 +238,7 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   Keunggulan utama dari quick sort adalah kinerja yang cepat dan efisien, terutama pada dataset yang besar. Selain itu, algoritma ini tidak membutuhkan ruang tambahan untuk penyimpanan data sementara, yang membuatnya lebih efisien dalam penggunaan memori. Namun, quick sort memiliki beberapa kelemahan, terutama ketika elemen pivot dipilih dengan buruk, dapat menyebabkan kinerja algoritma menjadi buruk, meskipun ini dapat diperbaiki dengan memilih pivot secara acak atau dengan menggunakan heuristik lainnya. Selain itu, quick sort bersifat tidak stabil, artinya ia tidak mempertahankan urutan relatif elemen-elemen yang sama nilainya dalam array yang terurut. Meskipun demikian, quick sort tetap menjadi salah satu algoritma pengurutan yang paling populer dan banyak digunakan dalam berbagai konteks pemrograman.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2010">Tugas dan Percobaan Jobsheet 10</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%2010%20-%20Shell%20dan%20Quick%20Sort">Tugas dan Percobaan Jobsheet 10</a>
   
 </p>
 
@@ -261,7 +261,7 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   Keuntungan utama binary search adalah kompleksitas waktu yang lebih baik daripada linear search. Karena setiap iterasi membagi ukuran array menjadi setengah, kompleksitas waktu binary search adalah O(log n), di mana n adalah jumlah elemen dalam array. Oleh karena itu, algoritma ini sangat efisien untuk dataset yang besar. Namun, penting untuk dicatat bahwa binary search hanya dapat digunakan pada array yang diurutkan, dan implementasinya tidak efisien jika array sering berubah atau diubah.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2011">Tugas dan Percobaan Jobsheet 11</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%2011%20-%20Linear%20dan%20Binary%20Search">Tugas dan Percobaan Jobsheet 11</a>
   
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -275,7 +275,7 @@ Namun, merge sort memerlukan alokasi memori tambahan untuk menyimpan array semen
   Sebuah pohon terdiri dari serangkaian simpul, yang masing-masing dapat memiliki nilai data atau informasi tambahan. Tree umumnya digunakan untuk menyimpan data hierarkis, seperti struktur file dalam sistem operasi atau hierarki organisasi dalam perusahaan. Jenis pohon yang umum digunakan termasuk binary tree, binary search tree, AVL tree, dan Red-Black tree, masing-masing dengan aturan dan sifat khususnya. Tree juga memiliki berbagai operasi yang bisa dilakukan, seperti pencarian, penambahan, penghapusan, dan traversal, yang memungkinkan akses dan manipulasi data secara efisien.
    <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2012">Percobaan Jobsheet 12</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%2012%20-%20Tree">Percobaan Jobsheet 12</a>
   
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -291,7 +291,7 @@ Graf memiliki dua jenis utama: graf terarah dan graf tak terarah. Pada graf tera
 Graf digunakan dalam berbagai algoritma dan aplikasi, termasuk algoritma pencarian jalur terpendek seperti Dijkstra dan Bellman-Ford, algoritma pencarian lintasan terpendek seperti algoritma A*, serta dalam algoritma pencarian dalam kedalaman (depth-first search) dan algoritma pencarian dalam lebar (breadth-first search) untuk traversal graf. Selain itu, graf juga digunakan dalam analisis jaringan, optimisasi rute, pemetaan jaringan sosial, dan banyak lagi. Kemampuan untuk merepresentasikan hubungan kompleks antara objek membuat graf menjadi struktur data yang sangat penting dalam ilmu komputer dan aplikasinya dalam berbagai bidang.
   <br/>
   <br/>
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%2013">Percobaan Jobsheet 13</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%2013%20-%20Graphs">Percobaan Jobsheet 13</a>
   
 </p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
