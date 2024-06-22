@@ -62,7 +62,7 @@
   <br/>
   <br/>
   <br/>
-   <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%201/Tugas">Tugas Jobsheet 1</a>
+   <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%201%20-%20Pengenalan%20Struktur%20Data">Tugas Jobsheet 1</a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -77,7 +77,7 @@
   <br/>
   Pointer adalah variabel yang berisi alamat memori sebagai nilainya, berbeda dengan variabel biasa yang berisi nilai tertentu. Pointer digunakan untuk menyimpan alamat dari variabel lain, dan dideklarasikan dengan tanda asterisk (*) di depan nama variabel, misalnya `int *b, d;`. Untuk mendapatkan alamat memori dari variabel, digunakan tanda `&` di depan nama variabel, seperti `&b`.
 
-  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/JOBSHEET%202">Tugas dan Percobaan Jobsheet 2</a>
+  <a href="https://github.com/Isra23343045/Praktikum-Struktur-Data/tree/main/Jobsheet%202%20-%20Array%2C%20Pointer%20dan%20Struct">Tugas dan Percobaan Jobsheet 2</a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
